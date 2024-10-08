@@ -1,5 +1,5 @@
 
-# 📝 Image Scraper
+# 📝FM24 faces downloader tool
 This project is a Python-based web scraper designed to download player images from [sortitoutsi](https://sortitoutsi.net/graphics/browse/1) using BeautifulSoup. It allows users to scrape face images and save them to a selected folder.
 
 
